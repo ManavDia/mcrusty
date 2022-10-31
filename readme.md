@@ -1,0 +1,1 @@
+# Simple rust starter project to explore the language
